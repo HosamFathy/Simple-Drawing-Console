@@ -1,8 +1,8 @@
 # Simple-Drawing-Console
-##Introduction
+## Introduction
 "Simple Drawing Console" is an interactive graphics application designed in assembly language. This program runs in real mode and leverages BIOS and DOS interrupts to create a simple yet engaging drawing interface. The program provides a menu-driven interface for users to select from various drawing options, including freehand drawing and creating shapes like squares, rectangles, triangles, and cubes.
 
-##Key Features:
+## Key Features:
 
 -Free Drawing Mode: Use the mouse to draw freely with selectable colors.
 -Predefined Shapes: Quickly draw squares, rectangles, triangles, and cubes with precise dimensions.
